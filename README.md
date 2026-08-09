@@ -10,7 +10,7 @@ Download the latest `.flatpak` bundle from the table below, then:
 flatpak install --user ./reson8-<version>.flatpak
 ```
 
-(Requires the Freedesktop 24.08 runtime; flatpak will fetch it from Flathub automatically.)
+(Requires the GNOME 47 runtime; flatpak will fetch it from Flathub automatically.)
 
 Prefer the Snap Store? `snap install reson8`.
 
