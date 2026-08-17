@@ -19,5 +19,5 @@ Prefer the Snap Store? `snap install reson8`.
 | Version | Date | Download |
 |---|---|---|
 | 1.0.0 | 2026-08-09 | [reson8-1.0.0.flatpak](releases/v1.0.0/reson8-1.0.0.flatpak) |
-| 1.0.2 | 2026-08-09 | [reson8-1.0.2.flatpak](releases/v1.0.2/reson8-1.0.2.flatpak) |
 | 1.0.1 | 2026-08-17 | [reson8-1.0.1.flatpak](releases/v1.0.1/reson8-1.0.1.flatpak) |
+| 1.0.2 | 2026-08-17 | [reson8-1.0.2.flatpak](releases/v1.0.2/reson8-1.0.2.flatpak) |
