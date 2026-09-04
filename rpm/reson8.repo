@@ -1,0 +1,8 @@
+[reson8]
+name=Reson8
+baseurl=https://nickhirras.github.io/reson8-release/rpm/x86_64
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-reson8
+autorefresh=1
+type=rpm-md

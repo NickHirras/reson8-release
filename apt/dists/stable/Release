@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 04 Sep 2026 22:44:11 +0000
+Description: Reson8 tuner packages
+Label: Reson8
+Origin: Reson8
+Suite: stable
+MD5Sum:
+ 846a6ad6163fd1e03250e42b1f3bbc9c             1354 main/binary-amd64/Packages
+ b563bf09fa68adb9e1ba22760c5f968a              819 main/binary-amd64/Packages.gz
+ 9b634b96f5e5d988151e5bed370bbd2e               81 main/binary-amd64/Release
+SHA1:
+ c4d7b824d489d3d22729ac769e91d4ede8fda91a             1354 main/binary-amd64/Packages
+ 18bd27eb54a45247269638d710dc81a01e5e7d46              819 main/binary-amd64/Packages.gz
+ 8bfb08bcef3648071521b0eab06b56970af1bb0d               81 main/binary-amd64/Release
+SHA256:
+ 2553ccb8ac4f2d4011411c69bf10d713d2aa9ea81cf3ef1bf07f38c33a3e22cc             1354 main/binary-amd64/Packages
+ 2ea777c70a1ec75fa7af0775c0af1c3ebc896988bb83c2f06a1460276122d790              819 main/binary-amd64/Packages.gz
+ dae5531350b7d2541b2a1d4d42fc4a46abe3cb6a1f2174f1820abb14aa261ddb               81 main/binary-amd64/Release
+SHA512:
+ a25d162058017a83d28fbd4723feb82cd1003cfe32d11fb53bc21580a83186cce8e1d4bd3be87dffaaaf3a5183793086ca440cc67be8f130436f354a99298b95             1354 main/binary-amd64/Packages
+ abf71a900962590c75f5deb86cacca40f4ef525554997ed299658c702dabb99aa54a39599f787986c17205f46e5a31121dfdc4f2097944771c5ccddca1a6f5d8              819 main/binary-amd64/Packages.gz
+ cd965a4e7a719acae487f9999ed76fbaf5c348da7c14d6b5ed5bcd3769c0a78ac147686c4ad38c0eef38332b1afc2862a7c928a18992a0a25dce4b8c98521517               81 main/binary-amd64/Release
