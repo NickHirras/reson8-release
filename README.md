@@ -14,7 +14,7 @@ tree (they remain in git history).
 
 | Version | Date | Flatpak | deb | rpm | AppImage | tarball |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1.0.6 | 2026-09-19 |  | [reson8_1.0.6_amd64.deb](apt/pool/main/r/reson8/reson8_1.0.6_amd64.deb) | [reson8-1.0.6-1.x86_64.rpm](rpm/x86_64/reson8-1.0.6-1.x86_64.rpm) | [Reson8-1.0.6-x86_64.AppImage](releases/v1.0.6/Reson8-1.0.6-x86_64.AppImage) | [reson8-1.0.6-linux-x86_64.tar.gz](releases/v1.0.6/reson8-1.0.6-linux-x86_64.tar.gz) |
+| 1.0.6 | 2026-09-19 | [reson8-1.0.6.flatpak](releases/v1.0.6/reson8-1.0.6.flatpak) | [reson8_1.0.6_amd64.deb](apt/pool/main/r/reson8/reson8_1.0.6_amd64.deb) | [reson8-1.0.6-1.x86_64.rpm](rpm/x86_64/reson8-1.0.6-1.x86_64.rpm) | [Reson8-1.0.6-x86_64.AppImage](releases/v1.0.6/Reson8-1.0.6-x86_64.AppImage) | [reson8-1.0.6-linux-x86_64.tar.gz](releases/v1.0.6/reson8-1.0.6-linux-x86_64.tar.gz) |
 | 1.0.5 | 2026-09-19 | [reson8-1.0.5.flatpak](releases/v1.0.5/reson8-1.0.5.flatpak) |  |  |  |  |
 | 1.0.2 | 2026-09-04 | [reson8-1.0.2.flatpak](releases/v1.0.2/reson8-1.0.2.flatpak) | [reson8_1.0.2_amd64.deb](apt/pool/main/r/reson8/reson8_1.0.2_amd64.deb) | [reson8-1.0.2-1.x86_64.rpm](rpm/x86_64/reson8-1.0.2-1.x86_64.rpm) | [Reson8-1.0.2-x86_64.AppImage](releases/v1.0.2/Reson8-1.0.2-x86_64.AppImage) | [reson8-1.0.2-linux-x86_64.tar.gz](releases/v1.0.2/reson8-1.0.2-linux-x86_64.tar.gz) |
 | 1.0.1 |  | [reson8-1.0.1.flatpak](releases/v1.0.1/reson8-1.0.1.flatpak) |  |  |  |  |
